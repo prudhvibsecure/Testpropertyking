@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/temp_list_row"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="5dp"
+    android:src="@drawable/layout_bg_bottomborder" >
+
+    <ImageView
+        android:id="@+id/imageview"
+        android:layout_width="130dp"
+        android:layout_height="90dp"
+        android:contentDescription="@string/app_name"
+        android:padding="2dp"
+        android:scaleType="fitXY" />
+
+    <View
+        android:id="@+id/template_icon_"
+        android:layout_width="130dp"
+        android:layout_height="90dp"
+        android:background="@drawable/wrap_btn_rounded_corner_tg_like"
+        android:contentDescription="@string/app_name" />
+
+    <TextView
+        android:id="@+id/propertyname_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@+id/imageview"
+        android:layout_toRightOf="@+id/imageview"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/property_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/propertyname_title"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_toEndOf="@+id/imageview"
+        android:layout_toRightOf="@+id/imageview"
+        android:ellipsize="end"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_buy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageview"
+        android:layout_alignRight="@+id/property_price"
+        android:background="@drawable/template_bt_red_bg"
+        android:text="Preview"
+        android:textSize="16sp"
+        android:textStyle="normal"
+        android:visibility="gone" />
+
+</RelativeLayout>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_9dd37aada556a5d5b2c889ff0ea6c2699150c116\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_e30ebe0381e9ed6fb3c4f96e15e9e33e2397315d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_6dc2fb7bbd1f702a4f05d9550941b7ef40ae53d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_d4c383f0a20d97595c224b5ba455d9a6bec89a48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_68fd238e579015345bf7929db78e53a42fc071ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\w7u\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_253d010ba515e4a146530e592833769fa3f5c1d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="334886ed622e8227b183a5fc638da7faf2db0eff">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b3ad3cf1a67e7580c6e78ee3ceda6e845e7c2973\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_89e7dbcbc3bb3b28d50af2bdaa94dca6720b7b44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_c2f0c4f2d56fcf9432279c527371dd94bffd8397\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_fca92649ec535d52230fc4c241f9d5607cc3156e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_40e9843733248c666bfe93ec1f38cd7870683d31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_bcc09d5b3ec74bc22065b9e012bf15779ddfaf24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d484d73f8cc5fd06452a0d5258bc1e997581835e">
+        <dex dex="F:\Bsec_prudhvi\Testpropertyking\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_be03b2e938cbdab8cbbc34b13b5e406d43d164cf\classes.dex" />
+    </item>
+
+</items>
